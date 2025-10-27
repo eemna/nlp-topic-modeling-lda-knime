@@ -1,0 +1,28 @@
+# Fichiers temporaires et logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration KNIME (non nécessaires)
+.metadata/
+.settings/
+workspace/
+.knime/
+
+# Dossiers de données brutes
+data/
+datasets/
+*.csv
+
+# Archives de sauvegarde
+*.zip
+*.rar
+*.7z
+
+# Cache ou fichiers intermédiaires
+.cache/
