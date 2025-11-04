@@ -59,6 +59,4 @@ Grâce à l’algorithme **LDA**, le projet découvre les principaux sujets abor
 - **Latent Dirichlet Allocation (LDA)**  
 - **BBC News Dataset (CSV)**  
 
----
 
-## 📂 Structure du projet
